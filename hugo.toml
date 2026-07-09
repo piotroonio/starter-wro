@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://piotroonio.github.io/starter-wro/'
 locale = 'en-us'
 title = 'Strona na Serif'
 theme = 'hugo-serif-theme'
